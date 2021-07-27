@@ -1,0 +1,1 @@
+export const SET_ADDRESS = 'features/Address/SET_ADDRESS';
